@@ -1,6 +1,6 @@
 ### Hi there, I'm Svoby - 👋
 <br/>
-- 🌱 I’m currently learning Spring Framework 🌱🌱🌱
+- 🌱 I’m currently learning Spring Framework
 
 <br/>
 <br/>
