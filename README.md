@@ -5,11 +5,15 @@
 <br/>
 <br/>
 <br/>
-<style>
+
+<head>
+  <style>
 img  {
   float: left;
 }
   </style>
+</head>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
