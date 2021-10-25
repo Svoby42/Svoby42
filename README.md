@@ -6,18 +6,10 @@
 <br/>
 <br/>
 
-<head>
-  <style>
-img  {
-  float: left;
-}
-  </style>
-</head>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
+<img style:"float: left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
+<img style:"float: left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
+<img style:"float: left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
+<img style:"float: left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50">
 
 <!--
 **Svoby42/Svoby42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
