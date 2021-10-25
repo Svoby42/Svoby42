@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Svoby - 👋
+
+
+- 🌱 I’m currently learning Spring Framework 🌱🌱🌱
+
+
 
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
