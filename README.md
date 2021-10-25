@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="CSS Logo" width="50" height="50"/>
+
+
 <!--
 **Svoby42/Svoby42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
