@@ -7,8 +7,7 @@
 <br/>
 
 
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`, `.java`
-- 👨‍💻 Accidentally cracked 🎮 (don't tell Sony 👀)
+- ⚙️ I use daily: `.html`, `.css`, `.java`
 - 💻 Running on `Windows 10` and `Arch Linux`
 - ⌚ Learning all about `The Spring Framework`
 
