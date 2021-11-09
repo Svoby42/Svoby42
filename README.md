@@ -6,6 +6,12 @@
 <br/>
 <br/>
 
+
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`, `.java`
+- 👨‍💻 Accidentally cracked 🎮 (don't tell Sony 👀)
+- 💻 Running on `Windows 10` and `Arch Linux`
+- ⌚ Learning all about `The Spring Framework`
+
 🧰 Toolbox
 
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
