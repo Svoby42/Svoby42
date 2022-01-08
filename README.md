@@ -1,6 +1,6 @@
 ### Hi there, I'm Svoby - 👋
 <br/>
-- 🌱 I’m currently learning The Spring Framework
+- 🌱 I’m currently learning The Spring Framework and Angular
 
 <br/>
 <br/>
@@ -10,7 +10,7 @@
 - ⚙️ I use daily: `.html`, `.css`, `.java`
 - 💻 Running on `Windows 10` and `Arch Linux`
 - ⌚ Learning all about `The Spring Framework`
-- ⚡ Ambitions: Become a Full Stack Java Developer
+- ⚡ Ambitions: Become a Full Stack Dev
 
 🧰 Toolbox
 
@@ -18,6 +18,13 @@
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 <br/>
+
+<strong>
+Contact me on jabber:
+  <p>
+    svobys@jabb3r.org
+  </p>
+</strong>
 
 <!--
 **Svoby42/Svoby42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
