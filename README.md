@@ -9,7 +9,7 @@
 
 - ⚙️ I use daily: `.html`, `.css`, `.java`, `.ts`
 - 💻 Running on `Windows 10` and `Arch Linux`
-- ⌚ Learning all about `The Spring Framework`
+- ⌚ Learning all about `Spring & Angular`
 - ⚡ Ambitions: Become a Full Stack Dev
 
 🧰 Toolbox
