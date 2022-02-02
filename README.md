@@ -6,7 +6,6 @@
 <br/>
 <br/>
 
-
 - ⚙️ I use daily: `.html`, `.css`, `.java`, `.ts`
 - 💻 Running on `Windows 10` and `Arch Linux`
 - ⌚ Learning all about `Spring & Angular`
@@ -23,13 +22,13 @@
 
 <br/>
 <strong>
-  <p>
-    Website: https://svoby.eu/
-  </p>
 Contact me on jabber:
   <p>
     svobys@jabb3r.org
   </p>
+  <p>
+  https://svoby.eu/
+</p>
 </strong>
 
 <!--
