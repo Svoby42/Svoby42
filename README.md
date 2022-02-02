@@ -23,7 +23,9 @@
 
 <br/>
 <strong>
+  <p>
   Website: https://svoby.eu/
+  </p>
 </strong>
 <strong>
 Contact me on jabber:
