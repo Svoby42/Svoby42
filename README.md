@@ -14,13 +14,17 @@
 
 🧰 Toolbox
 
-<img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+<img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<br/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 
+<br/>
+<strong>
+  Website: https://svoby.eu/
+</strong>
 <strong>
 Contact me on jabber:
   <p>
