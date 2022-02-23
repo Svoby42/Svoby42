@@ -10,7 +10,7 @@
 - 💻 Running on `Windows 10` and `Arch Linux`
 - ⌚ Learning all about `Spring & Angular`
 - ⚡ Ambitions: Become a Full Stack Dev
-
+- <strong>Unemployed </> <small>Possibly forever</small>
 🧰 Toolbox
 
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
