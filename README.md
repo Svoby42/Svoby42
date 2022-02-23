@@ -9,8 +9,9 @@
 - ⚙️ I use daily: `.html`, `.css`, `.java`, `.ts`
 - 💻 Running on `Windows 10` and `Arch Linux`
 - ⌚ Learning all about `Spring & Angular`
-- ⚡ Ambitions: Become a Full Stack Dev
-- <strong>Unemployed </> <small>Possibly forever</small>
+- ⚡ Ambitions: Become a Fullstack Dev
+- <strong>Unemployed :(</strong> but doing my best
+<br/>
 🧰 Toolbox
 
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
