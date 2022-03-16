@@ -1,6 +1,6 @@
 ### Hi there, I'm Svoby - 👋
 <br/>
-- 🌱 I’m currently learning The Spring Framework and Angular
+- 🌱 Spring Boot, Angular, Ruby on Rails
 
 <br/>
 <br/>
