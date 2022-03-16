@@ -6,9 +6,10 @@
 <br/>
 <br/>
 
-- ⚙️ I use daily: `.html`, `.css`, `.java`, `.ts`
+- ⚙️ I use daily: `.html`, `.css`, `.java`, `.ts`, `.rb`, `.erb`
 - 💻 Running on `Windows 10` and `Arch Linux`
-- ⌚ Learning all about `Spring & Angular`
+- ⌚ Learning all about `Spring Boot & Angular`
+- ⌚ I'm currently learning `Ruby on Rails`
 - ⚡ Ambitions: Become a Fullstack Dev
 - <strong>Unemployed :(</strong> but doing my best
 <br/>
@@ -20,7 +21,7 @@
 <img align="left"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/>
 <br/>
 <strong>
 Contact me on jabber:
