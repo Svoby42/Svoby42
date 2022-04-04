@@ -28,9 +28,6 @@ Contact me on jabber:
   <p>
     svobys@jabb3r.org
   </p>
-  <p>
-  https://svoby.eu/
-</p>
 </strong>
 
 <!--
