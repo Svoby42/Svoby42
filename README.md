@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Svoby</h1>
+<h1 align="center">There is no system but GNU, and Linux is one of its kernels.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svoby42&label=Profile%20views&color=0e75b6&style=flat" alt="svoby42" /> </p>
 
-- 👨‍💻 All of my projects are available at GitHub, obviously
-
-- 📫 How to reach me e-mail: **admin@svoby.eu** XMPP: **svobys@jabb3r.org**
-
-- ⚡ Fun fact **I play Dwarf Fortress**
+- 📫 How to reach me e-mail: **ondrej@svoby.eu** XMPP: **svobys@jabb3r.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
