@@ -2,7 +2,6 @@
 
 <hr/>
 
-<h2>I'm a wannabe Ruby developer, but in reality I'm more of a libre software advocate.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svoby42&label=Profile%20views&color=0e75b6&style=flat" alt="svoby42" /> </p>
 
