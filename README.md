@@ -1,4 +1,4 @@
-<h1 align="center">There is no system but GNU, and Linux is one of its kernels.</h1>
+<h1 align="center">Live long and prosper</h1>
 
 <hr/>
 
